@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  background-color: grey;
+}
+h1 {
+  margin: 0;
+ font-size: 50px;
+}
+.qwe {
+  font-size: 30px;
+  letter-spacing: 3px;
+}
+h1:hover {
+  color: red;
+  text-transform: uppercase;
+}
+span:hover {
+  color: red;
+  text-transform: uppercase;
+}
+.q:hover {
+  color: yellow;
+  text-transform: uppercase;
+}
+.w:hover {
+  color:  lime;
+  text-transform: uppercase;
+}
+.e:hover {
+  color: blue;
+  text-transform: uppercase;
+}
+.r:hover {
+  color: blue;
+  text-transform: uppercase;
+}
+.t:hover {
+  color: cyan;
+  text-transform: uppercase;
+}
+a {
+  color: cyan;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  text-decoration: underline;
+}

@@ -1,0 +1,141 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.box {
+  margin: 0;
+  background-color: #00A4E6;
+  height: 661px;
+}
+
+.im {
+  margin: 0;
+  color: #FF2121;
+  font-size: 60px;
+  padding: 20px;
+}
+span {
+  color: #1D1BB3;
+  font-family: 'RocknRoll One', sans-serif;
+}
+.web {
+  color: #FF2121;
+  font-size: 40px;
+  padding: 5px;
+}
+img {
+  width: 500px;
+  height: 400px;
+}
+.me {
+  width: 300px;
+  height: 300px;
+}
+.hello {
+  color: #3282b8;
+  font-size: 50px;
+  font-family: 'Crimson Text', serif;
+}
+p {
+  line-height: 2;
+font-family: 'Vidaloka' serif;
+}
+.aj {
+  color: red;
+}
+.dot {
+  margin: 100px auto;
+  border-style: none;
+  border-bottom: dotted red 10px;
+  width: 15%;
+}
+.box3 {
+  width: 50%;
+  margin: auto;
+}
+.html {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border-radius: 100%;
+  }
+.myskills {
+  color: #3282b8;
+  font-family: 'Crimson Text', serif;
+}
+.prog {
+  text-align: justify;
+  font-family: 'Crimson Text', serif;}
+  h3 {
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+}
+.box4 {
+  width: 50%;
+  margin: auto;
+}
+
+.lang {
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-left: 30px;
+  border-radius: 100%;
+}
+.languare {
+  text-align: justify;
+}
+.get {
+  font-family: 'Righteous', cursive;
+  cursor: pointer;
+  font-size: 60px;
+  color: #3282b8;
+}
+.help {
+  font-family: 'Montserrat', sans-serif;
+  color: blue;
+  text-decoration: underline;
+}
+.other {
+  color: blue;
+  text-decoration: none;
+}
+.other:hover {
+  color:red ;
+  text-decoration: underline;
+}
+.button  {
+  background-color: #19456b;
+  border-radius: 28px;
+  border: 2px solid red;
+  display: inline-block;
+  cursor: pointer;
+  color: white;
+  font-size: 20px;
+  padding: 15px 31px;
+  text-decoration: none;
+}
+.button:hover {
+  background-color: red;
+}
+.down {
+  background-color: #19456b;
+  width: 100%;
+  height: 100px;
+  word-spacing: 140px;
+}
+.up {
+  text-decoration: none;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+.up:hover {
+  color: red;
+  text-decoration: underline;
+}
+.end {
+  font-family: 'Merriweather', serif;
+  word-spacing: normal;
+  color: white;
+}
